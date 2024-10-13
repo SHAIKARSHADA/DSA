@@ -1,3 +1,6 @@
+#include<bits/stdc++.h> 
+using namespace std;
+
 class Solution {
   public:
     string armstrongNumber(int n) {
@@ -13,3 +16,5 @@ class Solution {
         } return "false";
     }
 };
+
+// armstrong no.
