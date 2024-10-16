@@ -1,4 +1,4 @@
-# Data structures and algorithms in C++ 
+# Data Structures and Algorithm
 
 ### Leet Code problems will have an lc and followed up with question no. 
 > eg. lc200
